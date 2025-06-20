@@ -1,4 +1,4 @@
-# TEXT-SUMMARIZATION-TOOL
+
 
 *COMPANY*   : CODTECH IT SOLUTIONS
 
@@ -13,7 +13,7 @@
 *MENTOR*    : NEELA SANTHOSH
 
 
-Text Summarization Tool
+# Text Summarization Tool
 
 # About the Project
 
