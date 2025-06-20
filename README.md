@@ -44,3 +44,8 @@ It also requires the use of the Python libraries below:
 These libraries are required for loading and running the pre-trained transformer model. All dependencies can be installed by running the following command in the project folder:
 
 pip install -r requirements. txt
+
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6fcd4ce0-4860-4296-92e6-0ac9de31f82d)
