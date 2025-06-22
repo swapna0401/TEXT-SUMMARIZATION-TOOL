@@ -48,4 +48,6 @@ pip install -r requirements. txt
 
 # OUTPUT
 
-![Image](https://github.com/user-attachments/assets/6fcd4ce0-4860-4296-92e6-0ac9de31f82d)
+![Image](https://github.com/user-attachments/assets/c44b1113-9b97-4747-8c8a-cf2197e2f740)
+
+![Image](https://github.com/user-attachments/assets/e31d36ce-8d54-4b28-85b6-728e46a55457)
