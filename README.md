@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![AI](https://img.shields.io/badge/AI-Enabled-lightgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Model: HuggingFace](https://img.shields.io/badge/Model-HuggingFace-ff69b4)
 
 
 *COMPANY*   : CODTECH IT SOLUTIONS
