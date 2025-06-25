@@ -11,7 +11,6 @@ import os
 import textwrap
 from transformers import pipeline
 
-
 def load_summarizer():
     """
     Loads the pre-trained summarization model.
