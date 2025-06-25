@@ -29,6 +29,18 @@ The application takes input in plain text, user input can be command line give
 
 The project was intended to be more than an extension of NLP methods, rather to solve a real problem. Large-volume readings are popular in academic as well as in industry, and summarizing them by hand is a cumbersome process. Automating this with machine learning is an educational experience as well as a handy tool. This acts as a stepping stone for more complex text analysis tasks that can be used as the bridge for further analysis.
 
+## Features
+
+- Accepts input from:
+  - Manual text entry via the command line
+  - External plain .txt files
+- Uses the facebook/bart-large-cnn pre-trained model for summarization
+- Displays:
+  - Original input text
+  - Summarized output
+  - Word count and compression ratio
+- Optionally saves the summary to a text file
+
 ## Prerequisites
 
 The system must have Python 3.7 or later.
